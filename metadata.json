@@ -1,0 +1,6 @@
+{
+  "name": "TRÒ CHƠI THẢ DÙ _ PHẠM HẬU",
+  "description": "Vòng quay gọi tên trả bài và bốc thăm trúng thưởng phong cách nhảy dù 2D sống động, kịch tính và công bằng cho giáo viên và streamer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
